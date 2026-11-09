@@ -1,0 +1,13 @@
+Supplier,Product,Quantity,Unit Price,Delivery Fee,VAT Rate,Lead Time (days),Supplier Reliability
+ABC Trading,Premium Cotton Towels,500,18,400,0.05,7,94
+Gulf Supplies,Premium Cotton Towels,500,16,900,0.05,10,88
+Prime Hospitality,Premium Cotton Towels,500,19,0,0.05,5,97
+ABC Trading,Industrial Cleaner 5L,120,42,250,0.05,7,94
+Gulf Supplies,Industrial Cleaner 5L,120,38.5,400,0.05,12,88
+Prime Hospitality,Industrial Cleaner 5L,120,45,0,0.05,5,97
+ABC Trading,LED TV 55 inch,10,1650,300,0.05,7,94
+Gulf Supplies,LED TV 55 inch,10,1490,500,0.05,14,88
+Prime Hospitality,LED TV 55 inch,10,1725,0,0.05,4,97
+ABC Trading,Bed Linen Set,80,145,300,0.05,8,94
+Gulf Supplies,Bed Linen Set,80,132,450,0.05,12,88
+Prime Hospitality,Bed Linen Set,80,151,0,0.05,5,97
